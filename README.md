@@ -38,6 +38,7 @@ To use this tool and capture credentials from users connected to the same networ
 This tool relies on the following Python modules:
 
 scapy: This is a powerful Python library used for packet manipulation and network analysis. It provides functionalities for creating, sending, and analyzing network packets.
+
 urllib.parse: This is part of Python's standard library and provides functions for parsing URLs and query strings.
 ## Disclaimer
 This tool is intended solely for educational purposes. Unauthorized use of this tool on networks you do not own or have explicit permission to test is illegal and unethical. Use this tool responsibly.
