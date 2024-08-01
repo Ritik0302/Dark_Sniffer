@@ -31,9 +31,9 @@ Press Ctrl+C to stop sniffing.
 Run this on root user only....
 
 ## Required hardware
-```sh
+
 To use this tool and capture credentials from users connected to the same network, you need a Wi-Fi adapter that supports monitor mode. For testing purposes, you can set up a virtual environment using VirtualBox or VMware. Create virtual machines and connect them using a NAT network. Use `eth0` as the interface to test the tool.
-```
+
 ## Modules Required
 This tool relies on the following Python modules:
 
